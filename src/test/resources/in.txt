@@ -1,0 +1,16 @@
+C - 3 - 4
+G = test
+H-toto-héhé
+M - 1 - 0
+M-e-z
+M- 2 - 1
+M- 0 - 2
+T - 0 - 3 - 2
+T- e- 3-2
+T -0 - E-2
+T - 0 -3 -A
+T - 1 - 3 - 3
+A -Indiana-1-2-S-ADADADAAGA 
+A -Lara-1-0-S-AAAGAGAA
+A=DEHORS-1-0
+A-Zoro- 1 -1 - S - AAAAAAAAAAA
